@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/rentAcar/static/css/main.92077064.css",
+    "main.js": "/rentAcar/static/js/main.b8114353.js",
+    "static/media/2.jpg": "/rentAcar/static/media/2.8efa38b1e9cf711814f1.jpg",
+    "static/media/car.png": "/rentAcar/static/media/car.78212608b4e99509dc74.png",
+    "static/media/4.jpg": "/rentAcar/static/media/4.bbace1ff38bd51a4220b.jpg",
+    "static/media/3.jpg": "/rentAcar/static/media/3.f8a9bd558a02f64abf3e.jpg",
+    "static/media/6.jpg": "/rentAcar/static/media/6.68b9aceb8482e4453641.jpg",
+    "static/media/book-banner.jpg": "/rentAcar/static/media/book-banner.57eefd5ade13c9cf655c.jpg",
+    "static/media/1.jpg": "/rentAcar/static/media/1.f7d7ae3e2829fe15818d.jpg",
+    "static/media/5.jpg": "/rentAcar/static/media/5.47fa4d11f6fb7943b726.jpg",
+    "static/media/heroes-bg.jpg": "/rentAcar/static/media/heroes-bg.3d3d43eb6f81d0997e63.jpg",
+    "static/media/main-car.png": "/rentAcar/static/media/main-car.37eba17d437b5386e575.png",
+    "static/media/main.png": "/rentAcar/static/media/main.365f450e62041989d779.png",
+    "static/media/bg.png": "/rentAcar/static/media/bg.a97d3a6168cad66c4bcc.png",
+    "static/media/about-main.jpg": "/rentAcar/static/media/about-main.446aa9247125e94a3dba.jpg",
+    "static/media/am_fiat_mobi.png": "/rentAcar/static/media/am_fiat_mobi.c2a2a124deec8a160c9e.png",
+    "static/media/bs_renault_logan.png": "/rentAcar/static/media/bs_renault_logan.d76a563d19e5afe22176.png",
+    "static/media/am_renault_kwid.png": "/rentAcar/static/media/am_renault_kwid.54010e2630f6f6b2a066.png",
+    "static/media/ca_fiat_cronos-1.png": "/rentAcar/static/media/ca_fiat_cronos-1.3c1bb665d27454adb5db.png",
+    "static/media/e_peugeot_208-1.png": "/rentAcar/static/media/e_peugeot_208-1.a67748ea9169a12fa941.png",
+    "static/media/b_fiat_argo.png": "/rentAcar/static/media/b_fiat_argo.5afe6f90b758a8578362.png",
+    "static/media/hero-bg.png": "/rentAcar/static/media/hero-bg.31a22bbb17e0456c86ce.png",
+    "static/media/car-logo.png": "/rentAcar/static/media/car-logo.68b57e7c436d8e507a8e.png",
+    "static/media/bg02.webp": "/rentAcar/static/media/bg02.05fdbd9a3c9560ed922e.webp",
+    "static/media/icon2.png": "/rentAcar/static/media/icon2.c06902382d1c847b9c97.png",
+    "static/media/icon3.png": "/rentAcar/static/media/icon3.b78b229c955370631679.png",
+    "static/media/bg-contact.png": "/rentAcar/static/media/bg-contact.c178c6db0f988d408d94.png",
+    "static/media/pfp2.jpg": "/rentAcar/static/media/pfp2.bb39a755db06cdcb3684.jpg",
+    "static/media/googleapp.svg": "/rentAcar/static/media/googleapp.e6493904327fe3f9b89c7c75a4f3ae74.svg",
+    "static/media/appstore.svg": "/rentAcar/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
+    "index.html": "/rentAcar/index.html",
+    "main.92077064.css.map": "/rentAcar/static/css/main.92077064.css.map",
+    "main.b8114353.js.map": "/rentAcar/static/js/main.b8114353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92077064.css",
+    "static/js/main.b8114353.js"
+  ]
+}
