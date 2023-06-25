@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rentAcar/static/css/main.92077064.css",
-    "main.js": "/rentAcar/static/js/main.fa1acf88.js",
+    "main.js": "/rentAcar/static/js/main.9cb4ad03.js",
     "static/media/2.jpg": "/rentAcar/static/media/2.8efa38b1e9cf711814f1.jpg",
     "static/media/car.png": "/rentAcar/static/media/car.78212608b4e99509dc74.png",
     "static/media/4.jpg": "/rentAcar/static/media/4.bbace1ff38bd51a4220b.jpg",
@@ -32,10 +32,10 @@
     "static/media/appstore.svg": "/rentAcar/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
     "index.html": "/rentAcar/index.html",
     "main.92077064.css.map": "/rentAcar/static/css/main.92077064.css.map",
-    "main.fa1acf88.js.map": "/rentAcar/static/js/main.fa1acf88.js.map"
+    "main.9cb4ad03.js.map": "/rentAcar/static/js/main.9cb4ad03.js.map"
   },
   "entrypoints": [
     "static/css/main.92077064.css",
-    "static/js/main.fa1acf88.js"
+    "static/js/main.9cb4ad03.js"
   ]
 }
